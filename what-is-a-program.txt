@@ -1,0 +1,7 @@
+A program is a fixed plan for machine to execute a list of operations.
+
+A program also is an abstract concept for people doing something in a sequence.
+
+For example, I will buy some food at the first, then goto barber shop to cut my hair.
+
+So making a program also means making a plan.
